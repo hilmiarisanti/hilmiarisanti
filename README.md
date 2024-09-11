@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently studying Biomedical Engineering and preparing for my thesis project that will focus on implementation of Machine Learning and Compressive Sampling in biomedical signals
-- 🌱 I’m interested to learn more about Machine Learning and its implementation in healthcare
+- 🔭 I’m a fresh graduate studying Biomedical Engineering. My bachelor thesis project focused on the study of Compressive Sampling in electrocardiogram signals
+- 🌱 I’m interested to learn more about Machine Learning or Signal Compression and its implementation in healthcare
 - 💬 Feel free to connect and reach me out!
 - 😄 Pronouns: she/her
 
